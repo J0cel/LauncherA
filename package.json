@@ -97,8 +97,8 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "J0cel",
+                "repo": "Suda"
             }
         ],
         "directories": {
